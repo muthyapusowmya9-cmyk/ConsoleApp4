@@ -12,6 +12,7 @@ namespace ConsoleApp4
         {
             Console.WriteLine("Hello world");
             Console.WriteLine("How are u");
+            Console.WriteLine("Hi");
         }
     }
 }
